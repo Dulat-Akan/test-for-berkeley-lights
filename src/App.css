@@ -36,3 +36,51 @@
     transform: rotate(360deg);
   }
 }
+
+.mainBlock{
+  width: 100%;
+}
+
+.error{
+  color:red;
+  padding:4px;
+}
+
+.textInput{
+  width:95%;
+}
+
+.blockButton{
+  width: 100%;
+}
+
+.block{
+  width: 90%;
+  height: 50px;
+  /* background-color: #c5ebf0; */
+  margin-left:5%;
+  margin-top:30px;
+}
+
+.result{
+  margin-top:10px;
+  width:50%;
+  margin-left:5%;
+  /* background-color: #c5ebf0; */
+  text-align: center;
+  border-radius: 10px;
+}
+
+.itemLeft{
+  float: left;
+}
+
+.left{
+  width:70%;
+  float: left;
+}
+.right{
+  margin-top:10px;
+  width:20%;
+  float: left;
+}
